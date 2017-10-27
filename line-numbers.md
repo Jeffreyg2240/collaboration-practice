@@ -6,7 +6,11 @@
 #### 6
 #### 7 owner's text
 #### 8
+<<<<<<< HEAD
 #### 9 
+=======
+#### 9 GitHub is awesome.
+>>>>>>> 8473e9991de9cb61db10c2c8acdcdd3f4bf1d5e1
 #### 10
 #### 11
 #### 12
