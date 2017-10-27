@@ -4,7 +4,7 @@
 #### 4
 #### 5 collaborator's text
 #### 6
-#### 7 
+#### 7 owner's text
 #### 8
 #### 9
 #### 10
